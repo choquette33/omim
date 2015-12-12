@@ -27,6 +27,7 @@ ro:3bancomat|bani
 nb:2penger|minibank
 fi:2raha|pankkiautomaatti
 
+
 amenity-bank
 en:3bank|money|U+1F3E6|U+1F4B0|U+1F4B2|U+1F4B3|U+1F4B4|U+1F4B5|U+1F4B6|U+1F4B7
 ru:3банк|деньги
